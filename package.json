@@ -1,5 +1,5 @@
 {
-  "name": "mitchthorson/image-prepub",
+  "name": "@mitchthorson/image-prepub",
   "version": "0.0.1",
   "description": "An opinionated utility to create image variants for web publication.",
   "main": "index.js",
