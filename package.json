@@ -1,0 +1,19 @@
+{
+  "name": "mitchthorson/image-prepub",
+  "version": "0.0.1",
+  "description": "An opinionated utility to create image variants for web publication.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "image-prepub": "index.js"
+  },
+  "author": "Mitchell Thorson",
+  "license": "MIT",
+  "dependencies": {
+    "pretty-bytes": "^6.1.1",
+    "sharp": "^0.32.6"
+  }
+}
